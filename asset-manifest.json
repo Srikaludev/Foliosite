@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Foliosite/static/css/main.4e32bd9f.css",
+    "main.js": "/Foliosite/static/js/main.fd0d84a8.js",
+    "static/js/453.ed3810f9.chunk.js": "/Foliosite/static/js/453.ed3810f9.chunk.js",
+    "static/media/SEGA.woff": "/Foliosite/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Foliosite/index.html",
+    "main.4e32bd9f.css.map": "/Foliosite/static/css/main.4e32bd9f.css.map",
+    "main.fd0d84a8.js.map": "/Foliosite/static/js/main.fd0d84a8.js.map",
+    "453.ed3810f9.chunk.js.map": "/Foliosite/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e32bd9f.css",
+    "static/js/main.fd0d84a8.js"
+  ]
+}
