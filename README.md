@@ -1,3 +1,6 @@
+## Hosted the sample site here 
+https://srikaludev.github.io/Foliosite/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
